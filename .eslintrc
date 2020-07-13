@@ -6,13 +6,6 @@
         "@ravorona",
         "plugin:@typescript-eslint/recommended"
     ],
-    "env": {
-        "browser": true,
-        "node": true,
-        "commonjs": true,
-        "es6": true,
-        "serviceworker": true
-    },
     "parserOptions": {
         "parser": "@typescript-eslint/parser",
         "sourceType": "module",
