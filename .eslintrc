@@ -22,11 +22,27 @@
         "process": true
     },
     "rules": {
-        "@typescript-eslint/ban-ts-ignore": "off",
-        "@typescript-eslint/no-inferrable-types": "off",
-        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/type-annotation-spacing": [
+            2,
+            {
+                "after": true,
+                "before": false
+            }
+        ],
+        "@typescript-eslint/no-unused-vars": 2,
+        "@typescript-eslint/ban-ts-comment": 2,
+        "@typescript-eslint/ban-types": 2,
+        "@typescript-eslint/no-inferrable-types": 0,
+        "@typescript-eslint/no-explicit-any": 0,
+        "@typescript-eslint/no-unsafe-assignment": 2,
+        "@typescript-eslint/no-unsafe-member-access": 2,
+        "@typescript-eslint/no-unsafe-return": 2,
+        "@typescript-eslint/no-unnecessary-type-arguments": 2,
+        "@typescript-eslint/no-unnecessary-type-assertion": 2,
+        "@typescript-eslint/no-useless-constructor": 2,
         "@typescript-eslint/member-delimiter-style": [
-            "error", {
+            2,
+            {
                 "multiline": {
                     "delimiter": "none",
                     "requireLast": false
@@ -36,9 +52,7 @@
                     "requireLast": false
                 }
             }
-        ],
-        "no-useless-constructor": "off",
-        "@typescript-eslint/no-useless-constructor": "error"
+        ]
     },
     "reportUnusedDisableDirectives": true
 }
