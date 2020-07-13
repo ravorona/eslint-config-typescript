@@ -1,5 +1,5 @@
 # ESLint configuration
-Typescript style guide using [ESLint](https://eslint.org)
+[Typescript](https://www.typescriptlang.org) style guide using [ESLint](https://eslint.org)
 
 ## Install
 Yarn:
