@@ -25,7 +25,6 @@ npm i --save-dev \
 
 ## Usage
 Set extends property inside your [ESLint configuration](https://eslint.org/docs/user-guide/configuring)
-
 ```json
 {
     "extends": "@ravorona/typescript",
@@ -34,3 +33,4 @@ Set extends property inside your [ESLint configuration](https://eslint.org/docs/
     }
 }
 ```
+Typescript supported rules: [Here](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin#supported-rules)

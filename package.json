@@ -1,9 +1,9 @@
 {
-    "name": "@ravorona/eslint-typescript-config",
+    "name": "@ravorona/eslint-config-typescript",
     "version": "1.0.0",
     "description": "ESLint configuration for Typescript",
     "main": ".eslintrc",
-    "repository": "git@github.com:ravorona/eslint-typescript-config.git",
+    "repository": "git@github.com:ravorona/eslint-config-typescript.git",
     "author": "Ravorona <h.rakotonjanahary@gmail.com>",
     "license": "MIT",
     "keywords": [
