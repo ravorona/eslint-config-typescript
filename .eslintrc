@@ -16,7 +16,6 @@
     "parserOptions": {
         "parser": "@typescript-eslint/parser",
         "sourceType": "module",
-        "project": "./tsconfig.json",
         "ecmaVersion": 2020,
         "allowImportExportEverywhere": false,
         "codeFrame": false
