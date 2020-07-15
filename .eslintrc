@@ -28,7 +28,6 @@
         "@typescript-eslint/no-inferrable-types": 0,
         "@typescript-eslint/no-explicit-any": 0,
         "@typescript-eslint/no-useless-constructor": 2,
-        "@typescript-eslint/no-unsafe-assignment": 2,
         "@typescript-eslint/member-delimiter-style": [
             2,
             {
