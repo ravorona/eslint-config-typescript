@@ -13,11 +13,11 @@
         "typescript"
     ],
     "peerDependencies": {
-        "@ravorona/eslint-config": "^1.3.3",
-        "@typescript-eslint/eslint-plugin": "^3.6.0",
-        "@typescript-eslint/parser": "^3.6.0",
-        "eslint": "^6.0.0",
-        "typescript": "^3.9.6"
+        "@ravorona/eslint-config": "^2.0.0",
+        "@typescript-eslint/eslint-plugin": "^4.22.0",
+        "@typescript-eslint/parser": "^4.22.0",
+        "eslint": "^7.0.0",
+        "typescript": "^4.2.4"
     },
     "engines": {
         "node": ">=8.0.0"
