@@ -14,20 +14,8 @@
         "codeFrame": false
     },
     "rules": {
-        "@typescript-eslint/type-annotation-spacing": [
-            2,
-            {
-                "after": true,
-                "before": false
-            }
-        ],
-        "@typescript-eslint/no-unused-vars": 2,
-        "@typescript-eslint/no-var-requires": 0,
         "@typescript-eslint/ban-ts-comment": 2,
         "@typescript-eslint/ban-types": 2,
-        "@typescript-eslint/no-inferrable-types": 0,
-        "@typescript-eslint/no-explicit-any": 0,
-        "@typescript-eslint/no-useless-constructor": 2,
         "@typescript-eslint/member-delimiter-style": [
             2,
             {
@@ -39,6 +27,18 @@
                     "delimiter": "comma",
                     "requireLast": false
                 }
+            }
+        ],
+        "@typescript-eslint/no-inferrable-types": 0,
+        "@typescript-eslint/no-explicit-any": 0,
+        "@typescript-eslint/no-unused-vars": ["error", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }],
+        "@typescript-eslint/no-useless-constructor": 2,
+        "@typescript-eslint/no-var-requires": 0,
+        "@typescript-eslint/type-annotation-spacing": [
+            2,
+            {
+                "after": true,
+                "before": false
             }
         ]
     },
