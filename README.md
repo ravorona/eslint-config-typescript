@@ -7,26 +7,20 @@ Yarn:
 yarn add -D \
     @ravorona/eslint-config \
     @ravorona/eslint-config-typescript \
-    eslint \
-    eslint-config-prettier \
-    eslint-plugin-prettier \
-    prettier \
-    typescript \
     @typescript-eslint/parser \
-    @typescript-eslint/eslint-plugin
+    @typescript-eslint/eslint-plugin \
+    eslint \
+    typescript
 ```
 NPM:
 ```bash
 npm i --save-dev \
     @ravorona/eslint-config \
     @ravorona/eslint-config-typescript \
-    eslint \
-    eslint-config-prettier \
-    eslint-plugin-prettier \
-    prettier \
-    typescript \
     @typescript-eslint/parser \
-    @typescript-eslint/eslint-plugin
+    @typescript-eslint/eslint-plugin \
+    eslint \
+    typescript
 ```
 
 ## Usage
