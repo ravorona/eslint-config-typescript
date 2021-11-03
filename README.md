@@ -1,5 +1,5 @@
 # ESLint configuration
-[Typescript](https://www.typescriptlang.org) style guide using [ESLint](https://eslint.org)
+[Typescript](https://www.typescriptlang.org) code quality guide using [ESLint](https://eslint.org)
 
 ## Install
 Yarn:
@@ -34,3 +34,6 @@ Set extends property inside your [ESLint configuration](https://eslint.org/docs/
 }
 ```
 Typescript supported rules: [Here](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin#supported-rules)
+
+## Formatting rules
+Prefer [Prettier](https://prettier.io) for formatting rules.
