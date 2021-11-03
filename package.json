@@ -1,6 +1,6 @@
 {
     "name": "@ravorona/eslint-config-typescript",
-    "version": "4.0.1",
+    "version": "4.0.2",
     "description": "ESLint configuration for Typescript",
     "main": ".eslintrc",
     "repository": "git@github.com:ravorona/eslint-config-typescript.git",
@@ -12,7 +12,7 @@
         "typescript"
     ],
     "peerDependencies": {
-        "@ravorona/eslint-config": "^4.0.2",
+        "@ravorona/eslint-config": "^4.0.3",
         "@typescript-eslint/eslint-plugin": "^5.3.0",
         "@typescript-eslint/parser": "^5.3.0",
         "eslint": "^8.1.0",
