@@ -5,20 +5,14 @@
 Yarn:
 ```bash
 yarn add -D \
-    @ravorona/eslint-config \
     @ravorona/eslint-config-typescript \
-    @typescript-eslint/parser \
-    @typescript-eslint/eslint-plugin \
     eslint \
     typescript
 ```
 NPM:
 ```bash
 npm i --save-dev \
-    @ravorona/eslint-config \
     @ravorona/eslint-config-typescript \
-    @typescript-eslint/parser \
-    @typescript-eslint/eslint-plugin \
     eslint \
     typescript
 ```
