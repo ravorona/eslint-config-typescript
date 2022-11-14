@@ -1,3 +1,10 @@
+### [4.4.1](https://github.com/ravorona/eslint-config-typescript/compare/4.4.0...4.4.1) (2022-11-14)
+
+
+### Features
+
+* Prefer interface in type declarations ([c1e09a1](https://github.com/ravorona/eslint-config-typescript/commit/c1e09a1be60552d80c1c12f9a71d5dcbcaffb483))
+
 ## [4.4.0](https://github.com/ravorona/eslint-config-typescript/compare/4.3.0...4.4.0) (2022-11-14)
 
 
