@@ -1,3 +1,10 @@
+### [4.4.2](https://github.com/ravorona/eslint-config-typescript/compare/4.4.1...4.4.2) (2022-11-14)
+
+
+### Features
+
+* Dependencies update ([42ba70c](https://github.com/ravorona/eslint-config-typescript/commit/42ba70caca2754d511252c5beba8ca9e028f75e1))
+
 ### [4.4.1](https://github.com/ravorona/eslint-config-typescript/compare/4.4.0...4.4.1) (2022-11-14)
 
 
