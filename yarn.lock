@@ -23,10 +23,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@ravorona/eslint-config@^4.0.5":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@ravorona/eslint-config/-/eslint-config-4.0.5.tgz#37af74b1fe019301387f3212e0c8d3f763208ee5"
-  integrity sha512-uaWkE/kYaDdqembRMxD7pSymSO+iesUn9IA+RnNQloqP1lb7yqDf7GvMxCO2/jlU93fsOZCfZutIoHtn+tZoIA==
+"@ravorona/eslint-config@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@ravorona/eslint-config/-/eslint-config-4.1.0.tgz#ebc52204fe9736e96a7a9cf3610eecb1d77a1ef2"
+  integrity sha512-kLRcMsf47qa5JQG8QeMzowj2HQd4J1HplgdPzrOInMb0lZ6vuL1AZOd5aZN3XMjvISSY/vKlme5lVeQ5a8vaeg==
 
 "@types/json-schema@^7.0.9":
   version "7.0.11"
