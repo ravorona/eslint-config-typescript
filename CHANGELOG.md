@@ -1,3 +1,11 @@
+## [5.0.0](https://github.com/ravorona/eslint-config-typescript/compare/4.4.2...5.0.0) (2023-04-26)
+
+
+### Features
+
+* Typescript 5
+* Dependencies upgrade ([601f187](https://github.com/ravorona/eslint-config-typescript/commit/601f1870b79028513b277ced86ffc4f11d7c8d76))
+
 ### [4.4.2](https://github.com/ravorona/eslint-config-typescript/compare/4.4.1...4.4.2) (2022-11-14)
 
 
