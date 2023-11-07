@@ -1,6 +1,6 @@
 {
     "name": "@ravorona/eslint-config-typescript",
-    "version": "5.0.0",
+    "version": "5.0.1",
     "description": "ESLint configuration for Typescript",
     "main": ".eslintrc",
     "repository": "git@github.com:ravorona/eslint-config-typescript.git",
