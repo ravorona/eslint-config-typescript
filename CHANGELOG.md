@@ -1,3 +1,9 @@
+## <small>5.0.1 (2023-11-07)</small>
+
+* Bump semver from 7.3.8 to 7.5.4 ([636c1d3](https://github.com/ravorona/eslint-config-typescript/commit/636c1d3))
+
+
+
 ## [5.0.0](https://github.com/ravorona/eslint-config-typescript/compare/4.4.2...5.0.0) (2023-04-26)
 
 
