@@ -13,13 +13,12 @@
     "typescript"
   ],
   "dependencies": {
-    "@ravorona/eslint-config": "git+https://github.com/ravorona/eslint-config.git#develop"
+    "@ravorona/eslint-config": "^4.3.0"
   },
   "peerDependencies": {
     "@eslint/js": "^9.0.0",
     "eslint": "^9.0.0",
-    "typescript": "^5.4.4",
-    "typescript-eslint": "^7.5.0"
+    "typescript": "^5.4.4"
   },
   "devDependencies": {
     "prettier": "^3.2.5"

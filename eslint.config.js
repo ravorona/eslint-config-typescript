@@ -78,6 +78,7 @@ const tsConfig = [
 ]
 
 export { tsRules }
+
 export default {
     configs: {
         all: tsConfig
