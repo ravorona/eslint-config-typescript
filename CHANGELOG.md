@@ -1,3 +1,19 @@
+## [5.2.1](https://github.com/ravorona/eslint-config-typescript/compare/5.0.1...5.2.1) (2024-04-07)
+
+
+### Features
+
+* Add recommended type checked rules ([186504e](https://github.com/ravorona/eslint-config-typescript/commit/186504e5f30e623dea775bae82090e51c9fd30d7))
+* Disable js files by default ([0fa1fa2](https://github.com/ravorona/eslint-config-typescript/commit/0fa1fa297bcfceaccb020088f9195d1e90d39d5b))
+* Documentation update ([cc9a63f](https://github.com/ravorona/eslint-config-typescript/commit/cc9a63fb9310496bfb5c3efc4b09620d06e39225))
+* Use @ravorona/eslint-config 4.2.0 ([2b40964](https://github.com/ravorona/eslint-config-typescript/commit/2b40964a66c0653fc2583311e8170f851a881226))
+* Use @ravorona/eslint-config 4.3.0 ([70a2e5d](https://github.com/ravorona/eslint-config-typescript/commit/70a2e5d22b708ee66db645d495da65c860659a9c))
+
+
+### Bug Fixes
+
+* Parser options ([2e3b704](https://github.com/ravorona/eslint-config-typescript/commit/2e3b704f6750ed894a41f60b48f0e837a4d43eb1))
+
 ## [5.2.0](https://github.com/ravorona/eslint-config-typescript/compare/5.0.1...5.2.0) (2024-04-07)
 
 
