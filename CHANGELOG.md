@@ -1,3 +1,10 @@
+## [5.1.0](https://github.com/ravorona/eslint-config-typescript/compare/5.0.1...5.1.0) (2024-04-07)
+
+
+### Features
+
+* Use @ravorona/eslint-config 4.2.0 ([2b40964](https://github.com/ravorona/eslint-config-typescript/commit/2b40964a66c0653fc2583311e8170f851a881226))
+
 ## <small>5.0.1 (2023-11-07)</small>
 
 * Bump semver from 7.3.8 to 7.5.4 ([636c1d3](https://github.com/ravorona/eslint-config-typescript/commit/636c1d3))
