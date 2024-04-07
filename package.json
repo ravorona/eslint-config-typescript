@@ -1,26 +1,29 @@
 {
-    "name": "@ravorona/eslint-config-typescript",
-    "version": "5.1.0",
-    "description": "ESLint configuration for Typescript",
-    "main": ".eslintrc",
-    "repository": "git@github.com:ravorona/eslint-config-typescript.git",
-    "author": "Ravorona <h.rakotonjanahary@gmail.com>",
-    "license": "MIT",
-    "keywords": [
-        "ravorona",
-        "eslint",
-        "typescript"
-    ],
-    "dependencies": {
-        "@ravorona/eslint-config": "^4.2.0",
-        "@typescript-eslint/eslint-plugin": "^7.5.0",
-        "@typescript-eslint/parser": "^7.5.0"
-    },
-    "peerDependencies": {
-        "eslint": "^9.0.0",
-        "typescript": "^5.4.4"
-    },
-    "engines": {
-        "node": ">=8.0.0"
-    }
+  "name": "@ravorona/eslint-config-typescript",
+  "version": "5.2.0",
+  "description": "ESLint configuration for Typescript",
+  "main": "eslint.config.js",
+  "repository": "git@github.com:ravorona/eslint-config-typescript.git",
+  "author": "Ravorona <h.rakotonjanahary@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "ravorona",
+    "eslint",
+    "typescript"
+  ],
+  "dependencies": {
+    "@ravorona/eslint-config": "^4.3.0"
+  },
+  "peerDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "typescript": "^5.4.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
 }
