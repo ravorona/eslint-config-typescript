@@ -70,6 +70,10 @@ const tsConfig = [
             }
         },
         rules: tsRules
+    },
+    {
+        files: ['*.js'],
+        ...tseslint.configs.disableTypeChecked
     }
 ]
 
