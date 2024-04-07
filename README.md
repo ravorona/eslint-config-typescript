@@ -10,6 +10,7 @@ Yarn:
 yarn add -D \
     @ravorona/eslint-config-typescript \
     eslint \
+    typescript-eslint \
     typescript
 ```
 
@@ -25,15 +26,19 @@ npm i --save-dev \
 
 ## Usage
 
-Set extends property inside your [ESLint configuration](https://eslint.org/docs/user-guide/configuring)
+Set the shared configurations inside your [ESLint configuration](https://eslint.org/docs/user-guide/configuring)
 
-```json
-{
-    "extends": "@ravorona/typescript",
-    "rules": {
-        "@typescript-eslint/ban-ts-ignore": "on"
+```js
+import ravorona from '@ravorona/eslint-config-typescript'
+
+export default [
+    ...ravorona.configs.all,
+    {
+        rules: {
+            '@typescript-eslint/no-inferrable-types': 'error'
+        }
     }
-}
+]
 ```
 
 Typescript supported rules: [Here](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin#supported-rules)
