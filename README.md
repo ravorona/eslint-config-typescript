@@ -41,7 +41,7 @@ export default [
 ]
 ```
 
-Typescript supported rules: [Here](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin#supported-rules)
+Typescript supported rules: [Here](https://typescript-eslint.io/rules/)
 
 ## Formatting rules
 
