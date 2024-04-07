@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ravorona/eslint-config@^4.3.0":
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/@ravorona/eslint-config/-/eslint-config-4.3.0.tgz#967e07e905285f83fbcf90260d98644b02ba9a47"
-  integrity sha512-wGeibwHn3lkK1irJG9u+i6wyWaKy7DGHu+5eUrpZV6DS+dZ9mzdywYy4Nba07u7OxTNLmC9ZTMURJsB/md8I+w==
+"@ravorona/eslint-config@^4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@ravorona/eslint-config/-/eslint-config-4.3.1.tgz#ef1d78209a5044925f053d93427cf05b2d811af9"
+  integrity sha512-stkd7Ks6wG4ecMGP9B8VtG/2ptGBPlFw7OkMk/jGFXrSBBSSMZId38CfZuHHJihZEJ3INApmQQAOaW6qTzT1uQ==
 
 prettier@^3.2.5:
   version "3.2.5"
