@@ -65,7 +65,9 @@ const tsConfig = [
     ...tseslint.configs.recommended,
     {
         languageOptions: {
-            project: true
+            parserOptions: {
+                project: true
+            }
         },
         rules: tsRules
     }
